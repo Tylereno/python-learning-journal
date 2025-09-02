@@ -1,8 +1,9 @@
 # python-learning-journal
 A repository to document my Python learning journey
-About Me: Tyler EE student
-Goals for This Course : learn python
-My First Python Program (include a simple "Hello, World!" program in a code block)
+
+About Me: Tyler EE student 32 Floridian
+
+Goals for This Course : learn python! Display graphics
 
 print = "hello world"
 
