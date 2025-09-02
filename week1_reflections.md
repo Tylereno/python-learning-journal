@@ -1,1 +1,1 @@
-python is fun
+Python is fun. Python is a high-level, interpreted programming language known for its clean syntax and readability. It’s general-purpose, meaning you can use it for everything from web development to data science, automation, AI
